@@ -1,6 +1,6 @@
 # README
 
-git clone https://github.com/ALPHACamp/git-exercise.git
+git clone https://github.com/gasper30/git-exercise
 cd git-exercise
 bundle install
 rails db:migrate
